@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Harindranath Reddy K J
 
-- 🌱 I’m currently learning Data Engineering, Machine Learning and Deep Learning.
+- 🔭 I’m currently working on web service development.
+- 🌱 I’m currently learning cloud, and it's advantages for software development and big data processing.
 - 📫 How to reach me: https://www.linkedin.com/in/harindranathreddy/
 <!--
 A ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
