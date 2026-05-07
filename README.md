@@ -1,6 +1,6 @@
 # Harindranath Reddy K J
 
-## Lead Java Backend Engineer
+## Lead Backend Engineer
 
 Distributed Systems • AI Agents • Cloud-Native Applications • Microservices
 
