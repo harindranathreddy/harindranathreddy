@@ -1,6 +1,7 @@
 # HARINDRANATH REDDY K J
 
 📍 Bangalore, India
+📞 +91 7259482327
 📧 [harindranathreddykj@gmail.com](mailto:harindranathreddykj@gmail.com)
 💼 LinkedIn: [linkedin.com/in/harindranathreddy](https://www.linkedin.com/in/harindranathreddy)
 
