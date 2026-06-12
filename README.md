@@ -1,258 +1,161 @@
-# Harindranath Reddy K J
+# HARINDRANATH REDDY K J
 
-## Lead Backend Engineer
-
-Distributed Systems • AI Agents • Cloud-Native Applications • Microservices
-
-📍 India
+📍 Bangalore, India
 📧 [harindranathreddykj@gmail.com](mailto:harindranathreddykj@gmail.com)
-📱 +91 7259482327
-🔗 [LinkedIn](https://www.linkedin.com/in/harindranathreddy/)
-🔗 [GitHub](https://github.com/harindranathreddy)
+💼 LinkedIn: linkedin.com/in/harindranathreddy
+
+# Lead Full Stack Engineer | Architecture & Modernization
+
+**Java • Spring Boot • React • Distributed Systems • AI Engineering**
+
+Lead Full Stack Engineer with 10 years of experience architecting and delivering scalable enterprise applications, distributed systems, and cloud-native solutions. Proven track record of leading modernization initiatives, owning end-to-end architecture, mentoring engineers, and driving AI-assisted automation. Experienced across backend services, frontend platforms, performance optimization, and secure software development.
 
 ---
 
-# About Me
+## 🛠 Tech Stack
 
-Lead Backend Engineer with 9+ years of experience building high-scale distributed systems, enterprise backend platforms, and cloud-native applications.
+### Languages
 
-Specialized in Java 8–21, microservices architecture, distributed systems, performance tuning, enterprise integrations, and production reliability. Experienced in healthcare and enterprise content management domains with strong focus on scalability, resiliency, and operational excellence.
+* Java (8–21)
+* JavaScript
+* SQL
 
-I actively leverage AI to improve engineering productivity and software maintenance workflows. Recently built an autonomous AI agent for CVE detection and dependency upgrades that significantly reduced manual maintenance effort and accelerated remediation workflows.
+### Frontend
 
-Strong believer in clean architecture, long-term maintainability, production observability, and engineering ownership.
+* React
+* TypeScript
+* HTML5
+* CSS3
 
----
+### Backend & Architecture
 
-# Core Expertise
-
-## Backend Engineering
-
-* Distributed Systems
-* Microservices Architecture
+* Spring Boot 3
+* Microservices
 * REST APIs
-* API Design
-* Event-Driven Systems
-* Enterprise Integrations
+* Distributed Systems
 * System Design
-* High Availability Systems
-* Fault Tolerance & Resiliency
+* Performance Engineering
 
-## Java Ecosystem
-
-* Java 8–21
-* Spring Ecosystem
-* Maven
-* Tomcat
-* JVM Performance Tuning
-* Generational ZGC
-* Concurrent Programming
-
-## Cloud & DevOps
-
-* AWS
-* Docker
-* Kubernetes
-* CI/CD Pipelines
-* Jenkins
-* GitLab CI/CD
-* Git
-* Cloud-Native Applications
-
-## Databases
+### Databases
 
 * PostgreSQL
 * Oracle
-* MSSQL
-* Query Optimization
+* Microsoft SQL Server
 
-## Engineering Excellence
+### Cloud & DevOps
 
-* Performance Tuning
-* Production Debugging
-* Log Analysis
-* Root Cause Analysis
-* Secure Software Engineering
-* Technical Mentorship
-* Production Support
+* Docker
+* Kubernetes
+* Jenkins
+* GitLab CI/CD
 
-## Frontend & Tooling
+### Security
 
-* ReactJS
-* Swagger/OpenAPI
-* JavaScript
+* OAuth2
+* Secure Software Development
+* Test-Driven Development (TDD)
+
+### AI Engineering
+
+* LLM Workflows
+* Multi-Agent Systems
+* Prompt Engineering
 
 ---
 
 # Professional Experience
 
-## OpenText — Lead Software Engineer
+## OpenText | Lead Software Engineer
 
-**Feb 2022 – Present**
+**Jan 2026 – Present**
 
-Promoted from Senior Software Engineer to Lead Software Engineer.
-
-### Key Contributions
-
-* Built an autonomous AI agent to proactively scan Maven dependencies for CVEs and automatically orchestrate dependency upgrade workflows.
-* Reduced manual maintenance effort by approximately 10% per sprint through intelligent automation.
-* Architected and delivered CMIS 1.1 support for a distributed enterprise content management platform serving 7,000+ B2B customers.
-* Enabled SAP-certified integrations for enterprise-scale deployments.
-* Designed middleware API layers that improved cross-service communication across globally distributed systems.
-* Led backend modernization initiatives:
-
-  * Java 21 migration
-  * Tomcat 10 upgrade
-  * Ant to Maven migration
-* Integrated Governikus Data Aeonia for compliant long-term document storage and integrity workflows.
-* Modernized legacy Windows administration tooling into a React-based web platform.
-* Improved production debugging and operational workflows, reducing incident resolution time by 50%.
-
-### Technologies
-
-`Java 21` `Distributed Systems` `Microservices` `Maven` `Tomcat` `ReactJS` `PostgreSQL` `CI/CD` `Docker` `Kubernetes`
+* Lead architecture decisions and cross-functional delivery for enterprise content management platforms.
+* Led the architecture and development of a production-grade multi-agent platform that automated legacy application modernization to React, accelerating frontend delivery by **40–80%** and enabling scalable full-stack transformation across enterprise applications.
+* Built an AI-driven framework for asynchronous dependency analysis and automated CVE remediation, improving security maintenance efficiency.
+* Directed migration from Java 17 to Java 21 using Generational ZGC to enhance memory efficiency and scalability.
+* Mentor engineers on system design, secure coding, performance optimization, and modern Java practices.
 
 ---
 
-## Oracle Health (Cerner) — Software Engineer II
+## OpenText | Senior Software Engineer
 
-**Aug 2018 – Jan 2022**
+**Feb 2022 – Dec 2025**
 
-Promoted from Software Engineer I to Software Engineer II.
-
-### Key Contributions
-
-* Developed enhancements supporting Advanced Practice Providers (APP), Non-Physician Practitioners (NPP), Mid-Level Providers (MLP), and Residents in enterprise healthcare ordering workflows.
-* Built backend capabilities that contributed to 30%+ platform adoption growth across healthcare institutions.
-* Engineered Power Plans, a complex multi-phase medication workflow system.
-* Reduced healthcare workflow preparation time by 15%.
-* Maintained 99.9% uptime for critical provider-facing backend services.
-* Contributed extensively to fault-tolerant architecture, production support, and operational stability.
-
-### Technologies
-
-`Java` `Healthcare Systems` `Distributed Services` `Oracle DB` `REST APIs`
+* Delivered key Archive Center capabilities including SAP CMIS 1.1 integration and cryptographic compliance enhancements.
+* Designed and owned OAuth2 email notification architecture as feature owner, delivering secure and scalable communication workflows.
+* Implemented Governikus Data Aeonia standards to ensure regulatory compliance and cryptographic integrity.
+* Collaborated with cross-functional teams to design and deliver highly available enterprise solutions.
+* Mentored junior engineers and contributed to architectural decisions and technical design reviews.
 
 ---
 
-## Cognizant — Programmer Analyst
+## Oracle Health (Cerner) | Software Engineer II
+
+**Nov 2019 – Jan 2022**
+
+* Developed Spring-based microservices supporting mission-critical healthcare order management systems.
+* Optimized SQL workloads and indexing strategies, enabling a **30% increase in platform adoption**.
+* Implemented resiliency patterns including circuit breakers and fault-tolerant communication mechanisms to maintain **99.9% platform availability**.
+* Collaborated with distributed teams to deliver secure and scalable services.
+
+---
+
+## Oracle Health (Cerner) | Software Engineer I
+
+**Aug 2018 – Nov 2019**
+
+* Developed core business logic for Power Plans clinical workflows, reducing validation efforts by **15%**.
+* Contributed to critical patches and releases for regulated healthcare applications.
+* Improved maintainability and reliability through automated testing and code quality initiatives.
+
+---
+
+## Cognizant | Programmer Analyst
 
 **Jun 2016 – Jul 2018**
 
-### Key Contributions
-
-* Applied Test-Driven Development practices across enterprise feature delivery.
-* Improved regression stability and code quality.
-* Collaborated with security teams for vulnerability mitigation and SLA-driven releases.
-* Worked on enterprise backend development and production support workflows.
-
-### Technologies
-
-`Java` `SQL` `TDD` `Enterprise Applications`
+* Introduced Test-Driven Development practices, reducing regression defects and improving software quality.
+* Resolved security vulnerabilities identified through static analysis tools and strengthened secure coding practices.
+* Delivered enhancements for enterprise applications while collaborating across distributed teams.
 
 ---
 
-# Projects
+# Architecture & AI Initiatives
 
-## Stack Overflow — Data Science Feature Implementation
+## SmartUI to React Modernization Platform
 
-### Overview
+Architected and developed a multi-agent platform that analyzed legacy UI frameworks and generated React components with validation guardrails, accelerating modernization efforts and improving engineering productivity.
 
-Implemented data science-focused platform enhancements on a distributed data layer using Java and SQL.
+## Dependency & Security Automation Framework
 
-### Features
-
-* Tag-based notifications for data science topics:
-
-  * Python
-  * R
-  * Matlab
-  * SAS
-  * SQL
-  * Excel
-* Machine learning-based response time prediction.
-* Suggested faster resolution workflows for users.
-* Trend analysis for identifying emerging technical topics.
-
-### Tech Stack
-
-`Java` `SQL` `Machine Learning`
-
-🔗 Repository:
-[StackOverflow Data Science Features](https://github.com/harindranathreddy/stackoverflow)
-
----
-
-## MyWorkLog — Jira Work Management Application
-
-### Overview
-
-Built a React and REST-based productivity platform for Jira work management and tracking.
-
-### Features
-
-* Bulk work logging
-* Team progress tracking
-* Workflow visibility
-* Bulk comments and updates
-* Graphical reporting dashboards
-
-### Tech Stack
-
-`ReactJS` `REST APIs` `Jira Integration`
-
-🔗 Project Wiki:
-[MyWorkLog Wiki](https://github.com/harindranathreddy/MyWorkLog/wiki)
+Built an AI-assisted framework for continuous dependency analysis and automated patch generation, streamlining vulnerability remediation and reducing manual maintenance overhead.
 
 ---
 
 # Certifications
 
-## IIT Madras
+### Advanced Certification in Machine Learning and Cloud Technologies
 
-### Machine Learning and Cloud
-
-**2020 – 2022**
+**IIT Madras** • 2022
 
 ---
 
 # Education
 
-## B.Tech — Computer Science and Engineering
+### Bachelor of Technology in Computer Science & Engineering
 
-### Amrita Vishwa Vidyapeetam
-
-Bengaluru, India
-2012 – 2016
+**Amrita Vishwa Vidyapeetham** • 2016
 
 ---
 
-# Engineering Interests
+## Core Strengths
 
-* AI Agents for Software Engineering
-* Distributed Systems Design
-* Enterprise Platform Engineering
-* JVM Performance Engineering
-* Secure Software Supply Chain
-* Backend Modernization
-* Cloud-Native Architecture
-* Developer Productivity Automation
-
----
-
-# GitHub Profile Highlights
-
-## Currently Exploring
-
-* AI-driven engineering workflows
-* Autonomous dependency management
-* Enterprise-scale backend modernization
-* JVM and distributed systems performance optimization
-
-## Open to Collaborations
-
-* Backend engineering projects
-* Distributed systems
-* AI tooling for developers
-* Enterprise platform architecture
-* Cloud-native applications
+* Full Stack Architecture
+* Distributed Systems
+* React Modernization
+* Microservices Design
+* Performance Optimization
+* Secure Software Development
+* AI Engineering
+* Technical Leadership
+* Mentoring & Cross-functional Collaboration
