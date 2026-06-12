@@ -24,7 +24,6 @@ Lead Full Stack Engineer with 10 years of experience architecting and delivering
 ## Frontend
 
 * React
-* TypeScript
 * HTML5
 * CSS3
 
